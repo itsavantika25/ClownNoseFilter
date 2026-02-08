@@ -1,1 +1,3 @@
 # ClownNoseFilter
+
+# Requires Camera permission.
